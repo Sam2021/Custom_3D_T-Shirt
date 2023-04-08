@@ -1,5 +1,5 @@
 # Custom_3D_T-Shirt
-![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
+![3D Website](https://github.com/Sam2021/Custom_3D_T-Shirt/blob/main/custom3d.png?raw=true)
 
 ## Introduction
 Many large corporations already use 3D graphics to showcase their products. In this website I have tried to make custom 3d shirt designing website
